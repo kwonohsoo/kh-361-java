@@ -23,8 +23,8 @@ public class Variable {
 //		1age; <-x //	 int age1; <-O 
 		
 //		특수 문자는 '_', '$'만 사용이 가능하다.
-		int _age;
-		int $age;
+//		int _age;
+//		int $age;
 //		int #age;
 //		int @age;
 		
