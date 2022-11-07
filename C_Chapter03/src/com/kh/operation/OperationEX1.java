@@ -63,7 +63,7 @@ public class OperationEX1 {
 		System.out.println(number1);	// 13
 		System.out.println(number2);	// 20
 		System.out.println(number3);	// 29
-
+		
 		
 	}
 
